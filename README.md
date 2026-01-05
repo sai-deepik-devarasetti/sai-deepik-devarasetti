@@ -2,36 +2,27 @@
 
 **Data Analyst | SQL | Excel | Power BI | Python**
 
-Results-driven **Data Analyst** with hands-on experience in **data analysis, business intelligence, and dashboard reporting**. Strong at transforming raw data into **actionable insights and decision-ready reports** using **SQL, Excel, Power BI, and Python**. Actively seeking **Data Analyst opportunities**.
+Results-driven **Data Analyst** with hands-on experience in **data analysis, business intelligence, and dashboard reporting**. Proficient in **SQL, Excel, Power BI, and Python (Pandas, NumPy, Matplotlib)** to transform raw data into **clear, actionable business insights**. Actively seeking **Data Analyst opportunities**.
 
 ### Core Skills
 
-* **SQL:** Joins, Aggregations, Subqueries, CTEs, Analytical Queries
-* **Python:** Pandas, NumPy, Matplotlib (Data Analysis & Visualization)
-* **Power BI:** Data Modeling, DAX Fundamentals, Interactive Dashboards
-* **Excel:** Advanced Formulas, Pivot Tables, Power Query, Power Pivot
+* **SQL:** Joins, Aggregations, Subqueries, CTEs
+* **Python:** Pandas, NumPy, Matplotlib
+* **Power BI:** Data Modeling, DAX Fundamentals, Dashboards
+* **Excel:** Advanced Formulas, Pivot Tables, Power Query
 
-### What I Deliver
+### Focus
 
-* End-to-end **data analysis and dashboard development**
-* **KPI design, reporting, and performance tracking**
-* Clear insights for **business and non-technical stakeholders**
+* End-to-end data analysis and reporting
+* KPI design and dashboard development
+* Business-ready insights for decision-making
 
-### Analytics Portfolio
+### Portfolio
 
-* Real-world **SQL, Excel, Power BI, and Python projects**
-* Data cleaning, transformation, modeling, and visualization
-* Business-focused insights with well-documented workflows
-
-### Career Focus
-
-* **Target Role:** Data Analyst
-* **Experience Level:** Entry to Early-Mid
-* **Open To:** Analytics, BI, Reporting teams
+* Real-world analytics projects using **SQL, Excel, Power BI, and Python**
+* Clean, documented workflows with business context
 
 ### Connect
 
 * **LinkedIn:** [https://www.linkedin.com/in/saideepikdevarasetti](https://www.linkedin.com/in/saideepikdevarasetti)
-* **GitHub:** Explore analytics projects below ⬇️
-
----
+* **GitHub:** Analytics projects below ⬇️
